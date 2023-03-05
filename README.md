@@ -5,7 +5,7 @@
 # Output
 
 <p align="center">
-<img src="image.png">
+<img src="./logo.jpg">
 
 ---
 ### For Usage of to make yours, reach out to me.
@@ -17,4 +17,3 @@
  <a href="mailto:zenoftech.info@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://twitter.com/Zenoftech1"><img width="37px" height="28px" alt="Twitter" title="Twitter" src="https://i.imgur.com/UlUtoFm_d.webp?style=social&url=https%3A%2F%2Ftwitter.com%2FZenoftech1%2Ffollowers"></a>
 </p>
-

@@ -5,10 +5,21 @@
 # Output
 
 <p align="center">
-<img src="./logo.jpg">
+<img src="./logo.jpg" alt="zen file logo"/>
+</p>
+
+## OR 
+
+### The python file `loveZen.py` for a love emoji.
+
+# Output
+
+<p align="center">
+<img src="./loveZen.jpg" alt="Love zen emoji" />
+</p>
 
 ---
-### For Usage of to make yours, reach out to me.
+### For proper Usage or to make yours, reach out to me.
 
  <p align="center">
 <a href="https://api.whatsapp.com/send/?phone=%2B2348102075944&text=Hello+Muktar!+How+are+you+doing?&type=phone_number&app_absent=0"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a> 
